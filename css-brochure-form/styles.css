@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: rgb(219, 26, 26);
+}
+h1,
+label,
+#submit {
+  font-family: 'Brandon Grotesque';
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+div {
+  margin: auto;
+width: 60%;
+padding: 10px;
+}
+
+.companyEmail label {
+  margin-right: 460px;
+}
+
+.name label {
+  margin-right: 540px;
+}
+
+.hiring label {
+  margin-right: 390px;
+}
+
+.dropDown label {
+  margin-right: 90px;
+}
+
+
+input {
+  width: 600px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+select {
+  font-family: 'Brandon Grotesque';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: rgb(175, 174, 174);
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 600px;
+  height: 50px;
+}
+
+
+
+input {
+  border-color: lightgrey;
+  margin-top: 10px;
+}
+input::placeholder {
+   font-family: 'AtlasGrotesk';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 20px 10px 0 5px;
+    color: gray;
+}
+
+#submit {
+  font-size: 17px;
+  color: white;
+  background-color: rgb(219, 26, 26);
+  border-radius: 20px;
+  margin-left: 500px;
+  width: 100px;
+  height: 50px;
+}
