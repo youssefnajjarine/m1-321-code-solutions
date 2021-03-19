@@ -1,4 +1,4 @@
-body {
+/* body {
   margin-left: 200px;
 }
 
@@ -43,4 +43,24 @@ h3 {
 }
 .section4 {
   margin-top: 50px;
+} */
+
+body {
+  margin-left: 100px;
+}
+.column-one-third,
+.row2,
+.row3,
+.row4 {
+  display: flex;
+}
+h1 {
+  font-size: 50px;
+}
+h2,
+h3 {
+  font-size: 30px;
+}
+p {
+  font-size: 30px;
 }
