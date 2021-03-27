@@ -2,7 +2,7 @@ var fullName = 'Youssef Najjarine';
 var isCool = false;
 var totalPets = 2;
 var unknown = null;
-var never =
+var never
 console.log('fullName: ',fullName);
 console.log('isCool: ', isCool);
 console.log('totalPets: ',totalPets);
