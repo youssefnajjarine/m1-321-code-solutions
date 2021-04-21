@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+.blackBackground {
+  background-color: rgb(87, 87, 87);
+  padding: 0px 800px 917px 0;
+  position: relative;
+}
+
+.openModal {
+  margin-left: 10px;
+  font-size: 25px;
+  padding: 10px 30px 10px 30px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+.openModal2 {
+  margin-left: 10px;
+  font-size: 25px;
+  padding: 10px 30px 10px 30px;
+  background-color: rgb(46, 46, 59);
+  color: white;
+  border-radius: 5px;
+}
+
+.survey {
+  position: absolute;
+  top: 300px;
+  left: 700px;
+  font-size: 15px;
+  border-radius: 10px;
+  padding: 50px 50px;
+  text-align: center;
+  width: 500px;
+  background-color: white;
+}
+
+.modalBlackGround {
+  background-color: rgb(87, 87, 87);
+}
+
+.survey button {
+  margin-top: 10px;
+   color: white;
+  border-radius: 5px;
+  background-color: red;
+  font-size: 25px;
+  padding: 5px 15px;
+}
+
+.hidden {
+  display: none;
+}
