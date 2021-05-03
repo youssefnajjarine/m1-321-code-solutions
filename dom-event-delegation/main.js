@@ -1,4 +1,4 @@
-var taskList = document.querySelectorAll('.task-list');
+var taskList = document.querySelector('.task-list');
 
 for (var task of taskList) {
   task.addEventListener('click', handleClick);
